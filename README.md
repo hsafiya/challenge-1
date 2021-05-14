@@ -6,6 +6,6 @@
 * Merged multiple classes into 1 in CSS
 
 
-1.[gitHub](https://github.com/hsafiya/challenge-1 "gitHub repo") https://github.com/hsafiya/challenge-1
-2.[Webpage](https://hsafiya.github.io/challenge-1/ "Horiseon pusblished") https://hsafiya.github.io/challenge-1/
-3.![GitHub Logo](/assets/images/screenshot.png)
+1. GitHub - https://github.com/hsafiya/challenge-1
+2. Webpage - https://hsafiya.github.io/challenge-1/ 
+3. ![GitHub Logo](/assets/images/screenshot.png)
