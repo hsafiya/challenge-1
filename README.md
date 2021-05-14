@@ -8,4 +8,4 @@
 
 [gitHub](https://github.com/hsafiya/challenge-1 "gitHub repo")
 [Webpage](https://hsafiya.github.io/challenge-1/ "Horiseon pusblished") https://hsafiya.github.io/challenge-1/
-![GitHub Logo](./assets/images/_C__Users_safig_OneDrive_Desktop_chllanges_week%201_challange-week-1_index.html.png)
+![GitHub Logo](/assets/images/_C__Users_safig_OneDrive_Desktop_chllanges_week%201_challange-week-1_index.html.png)
